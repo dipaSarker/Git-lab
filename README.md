@@ -1,4 +1,4 @@
 # Git-lab
 
-$a \ne 0$
+ When $a \ne 0$ ,
 
