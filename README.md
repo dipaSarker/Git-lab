@@ -2,7 +2,7 @@
 ## You have to write markdown
 ### Some Math Eqution
 			First  equation: Y=
-		Second equation: X=
+			Second equation: X=
 
 
 
@@ -11,7 +11,11 @@
 3. Third item a. second sub item
 4. Fourth item
 
-##### . First Item
+. First Item
+. Second Item
+	\. first sub-item
+
+
 		
 
 
